@@ -1,2 +1,1 @@
-this is file1
-this file is created by bathala hareesh
+this is my file 
