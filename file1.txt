@@ -1,4 +1,1 @@
-this is file1
-this page was created by bathala hareesh
-this is my file
-this is fourth line
+this is a file
