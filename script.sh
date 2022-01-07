@@ -6,3 +6,4 @@ echo "this is pollscm test 1"
 
 echo "this for testing purpose"
 echo "this is first line code"
+echo " this is for feature purpuse "
